@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [tello_ros](https://github.com/mhepeyiler/tello_ros)
 
-🌱 I’m currently learning robotic, and embedded system. Also, I am improving my ROS knownledge.
+🌱 I’m currently learning robotic, and embedded system. Also, I am improving my ROS knowledge.
 
 📫 How to reach me: murathepeyiler@gmail.com. I can speak English and Turkish.
 
