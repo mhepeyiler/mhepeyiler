@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-🔭 I’m currently working on [tello_ros](https://github.com/mhepeyiler/tello_ros)
+🔭 I’m currently working on [linux-dev-conn](https://github.com/mhepeyiler/linux-dev-conn)
 
 🌱 I’m currently learning robotic, and embedded system.
 
