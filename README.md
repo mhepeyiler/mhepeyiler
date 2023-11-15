@@ -1,8 +1,6 @@
 # Hi there 👋
 
 
-🔭 I’m currently working on [linux-dev-conn](https://github.com/mhepeyiler/linux-dev-conn)
-
 🌱 I’m currently learning robotic, and embedded system.
 
 📫 How to reach me: murathepeyiler@gmail.com. I can speak English and Turkish.
