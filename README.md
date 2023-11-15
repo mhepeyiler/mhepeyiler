@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-🌱 I’m currently learning robotic, and embedded system.
+🌱 I’m currently Linux internals, architectural design and build systems.
 
 📫 How to reach me: murathepeyiler@gmail.com. I can speak English and Turkish.
 
