@@ -1,5 +1,6 @@
 # Hi there 👋
 
+🔭 I’m currently working on [tengwar](https://github.com/mhepeyiler/tengwar)
 
 🌱 I’m currently Linux internals, architectural design and build systems.
 
@@ -12,6 +13,7 @@
 
 ## Skills
 
+* C
 * C++
 * Python
 * CMake
