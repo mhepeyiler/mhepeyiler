@@ -1,12 +1,8 @@
 # Hi there 👋
 
-🔭 I’m currently working on [tengwar](https://github.com/mhepeyiler/tengwar)
-
-🌱 I’m currently Linux internals, architectural design and build systems.
+🔭 I’m currently working on Compilers
 
 📫 How to reach me: murathepeyiler@gmail.com. I can speak English and Turkish.
-
-😄 Pronouns: He/Him
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murathepeyiler/)
 
